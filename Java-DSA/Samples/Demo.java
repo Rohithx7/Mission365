@@ -1,4 +1,3 @@
-package com.rahul;
 
 public class Demo {
     static void main(String[] args) {
