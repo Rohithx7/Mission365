@@ -1,5 +1,3 @@
-package IntermediateJava;
-
 import java.util.Scanner;
 
 
